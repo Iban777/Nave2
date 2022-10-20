@@ -9,13 +9,13 @@ class Nau:
         self.x=self.x+self.incr
         
     def moure_esquerre(self):
-        self.x=self.x-self.incr
+        pass
 
     def moure_amunt(self):
-        self.y=self.y+self.incr
+        pass
         
     def moure_avall(self):
-        self.y=self.y-self.incr
+        pass
         
     def mostrar(self):
         print()
